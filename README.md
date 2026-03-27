@@ -7,3 +7,4 @@ Tracking small changes over time.
 Another small public update for the repository.
 Continuing to build and document on Base.
 Idea: track best Base apps for daily usage
+Idea: compare Base vs other L2 experience
