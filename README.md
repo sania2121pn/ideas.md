@@ -6,3 +6,4 @@ Potential focus: simple onchain tooling.
 Tracking small changes over time.
 Another small public update for the repository.
 Continuing to build and document on Base.
+Idea: track best Base apps for daily usage
