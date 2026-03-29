@@ -9,3 +9,4 @@ Continuing to build and document on Base.
 Idea: track best Base apps for daily usage
 Idea: compare Base vs other L2 experience
 Idea: build simple tracking for daily Base usage
+Idea: analyze which apps give best user experience
