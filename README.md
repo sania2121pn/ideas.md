@@ -11,3 +11,4 @@ Idea: compare Base vs other L2 experience
 Idea: build simple tracking for daily Base usage
 Idea: analyze which apps give best user experience
 Idea: document best Base tools for beginners
+Idea: track personal onchain growth over time
